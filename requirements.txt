@@ -57,7 +57,7 @@ debtags==2.1
 decorator==4.4.2
 dicttoxml==1.7.4
 distro==1.5.0
-Django==2.2.18
+Django==2.2.20
 dnslib==0.9.14
 dnspython==1.16.0
 docopt==0.6.2
